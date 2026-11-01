@@ -1,0 +1,9 @@
+*.class
+*.log
+bin/
+out/
+target/
+.idea/
+.vscode/
+javafx-sdk-21.0.12/
+.env
