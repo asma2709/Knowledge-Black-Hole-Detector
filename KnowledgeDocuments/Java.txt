@@ -1,0 +1,1 @@
+Java is an object oriented programming language. Java supports classes, objects, inheritance, polymorphism, encapsulation and abstraction. Java is widely used for application development.

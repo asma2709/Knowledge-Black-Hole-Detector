@@ -1,0 +1,1 @@
+Exception handling in Java is used to handle runtime errors. Java provides try, catch, finally, throw and throws keywords. Exception handling helps create reliable applications.

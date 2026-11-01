@@ -1,0 +1,1 @@
+Inheritance is an important concept in object oriented programming. It allows a child class to acquire properties and methods from a parent class. Java supports single, multilevel and hierarchical inheritance.

@@ -1,0 +1,1 @@
+Object oriented programming is based on classes and objects. The main concepts are inheritance, polymorphism, encapsulation and abstraction. Java is an object oriented programming language.
